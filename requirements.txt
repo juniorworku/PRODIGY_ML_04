@@ -1,0 +1,4 @@
+TensorFlow
+Keras
+NumPy
+Matplotlib
